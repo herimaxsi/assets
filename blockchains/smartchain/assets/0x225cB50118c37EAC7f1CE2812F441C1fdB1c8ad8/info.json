@@ -1,0 +1,11 @@
+{
+    "name": "MAXsiPay",
+    "website": "https://token.maxsi.id/",
+    "description": "MAXsiPay is the digital asset exchange platform that uses an algorithm to find the best rate for Binance Smart Chain automatically.",
+    "explorer": "https://bscscan.com/token/0x225cB50118c37EAC7f1CE2812F441C1fdB1c8ad8",
+    "type": "BEP20",
+    "symbol": "MAS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x225cB50118c37EAC7f1CE2812F441C1fdB1c8ad8"
+}
